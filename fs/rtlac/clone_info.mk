@@ -1,0 +1,1 @@
+clones/extg/clone_info.mk
